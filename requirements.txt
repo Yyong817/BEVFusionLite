@@ -1,0 +1,14 @@
+# Install matching torch / torchvision / spconv for your CUDA environment first.
+numpy>=1.23,<2
+scipy
+numba
+PyYAML
+easydict
+tqdm
+tensorboardX
+scikit-image
+Pillow
+opencv-python
+pyquaternion
+nuscenes-devkit
+matplotlib

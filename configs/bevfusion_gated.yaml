@@ -1,0 +1,7 @@
+_BASE_CONFIG_: configs/bevfusion.yaml
+
+MODEL:
+    FUSER:
+        NAME: GatedFuser
+        GATE_HIDDEN: 32
+        SAVE_WEIGHTS: False
